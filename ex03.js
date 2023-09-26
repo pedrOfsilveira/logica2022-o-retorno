@@ -1,0 +1,1 @@
+console.log(Number(prompt('Digite o valor do primeiro número:')) + Number(prompt('Digite o valor do segundo número: ')));
